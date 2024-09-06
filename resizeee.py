@@ -2,7 +2,7 @@
 import os
 #open cv library
 import cv2
-
+#dir means a folder
 arr = os.listdir("images/")
 
 for aa in arr:
