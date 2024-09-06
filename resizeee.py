@@ -1,4 +1,4 @@
-#these are lib
+#these are librarie
 import os
 import cv2
 
