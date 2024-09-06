@@ -1,5 +1,6 @@
 #these are libraries
 import os
+#open cv library
 import cv2
 
 arr = os.listdir("images/")
