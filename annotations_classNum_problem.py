@@ -1,5 +1,5 @@
 import os
-
+# ress is the directory name
 arr = os.listdir("ress/")
 for aa in arr:
     # print(aa)
