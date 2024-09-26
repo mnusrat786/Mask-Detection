@@ -1,4 +1,4 @@
-#i
+#im
 import os
 import shutil
 maindir = os.listdir('120img/')
