@@ -1,4 +1,4 @@
-# i am sorr
+# i am sor
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
 PyTorch Hub models https://pytorch.org/hub/ultralytics_yolov5/
