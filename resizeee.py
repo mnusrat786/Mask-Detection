@@ -1,4 +1,4 @@
-#these are librarie
+#these are library
 import os
 #open cv library
 import cv2
