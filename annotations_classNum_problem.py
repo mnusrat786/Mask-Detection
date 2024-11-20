@@ -1,4 +1,3 @@
-#import os
 import os
 # res is the directory nam
 arr = os.listdir("ress/")
