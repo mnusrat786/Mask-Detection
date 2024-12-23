@@ -2,6 +2,7 @@
 
 
 
+
 # Face Mask Detection
 I collected the dataset from kaggle and used YOLO V5 to detect mask on the people face
 # Results
