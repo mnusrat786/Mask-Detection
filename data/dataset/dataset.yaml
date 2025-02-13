@@ -1,0 +1,4 @@
+train: data/dataset/images/train
+val: data/dataset/images/val
+nc: 1
+names: ['mask']
